@@ -1,4 +1,6 @@
 # Olá, mundo
- Primeiro Repositorio do curso de Git e GitHub
+ Primeiro Repositorio do curso de Git e GitHub.
 
- Repositorio criado durante a aula
+ Repositorio criado durante a aula.
+ 
+ Adicionado pelo site.
